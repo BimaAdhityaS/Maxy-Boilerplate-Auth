@@ -16,7 +16,7 @@
                     </div>
                     <p>You must set up your Google Authenticator app before continuing. You will be unable to login otherwise</p>
                     <div>
-                        <a href="/complete-registration" class="btn btn-primary">Complete Registration</a>
+                        <a href="/tes/2fa" class="btn btn-primary">Complete Registration</a>
                     </div>
                 </div>
             </div>
